@@ -1,4 +1,4 @@
-# wp-discourse
+# wp-discourse changes
 
 This WordPress plugin allows you to **use Discourse as a community engine for your WordPress blog**.
 
